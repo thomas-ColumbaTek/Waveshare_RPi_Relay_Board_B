@@ -19,7 +19,8 @@ Ensure Python 3 and required libraries are installed:
 
 ```bash
 sudo apt update
-sudo apt install -y python3 python3-pip libgpiod-dev
+sudo apt install -y python3 python3-pip
+sudo apt install -y python3-libgpiod
 pip3 install paho-mqtt gpiod
 ```
 
