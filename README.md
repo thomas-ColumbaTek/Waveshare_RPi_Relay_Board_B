@@ -26,8 +26,8 @@ pip3 install paho-mqtt gpiod
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/mqtt-relay.git
-cd mqtt-relay
+[git clone https://github.com/your-username/mqtt-relay.git](https://github.com/thomas-ColumbaTek/Waveshare_RPi_Relay_Board_B.git)
+cd Waveshare_RPi_Relay_Board_B/
 chmod +x install.sh
 ./install.sh
 ```
